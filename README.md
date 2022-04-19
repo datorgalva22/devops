@@ -1,2 +1,2 @@
-# devops
-devops_task
+# DevOps repozitorijs
+Artūrs Višņevskis repozitorijs pamati iesācējiem
